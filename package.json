@@ -22,5 +22,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://mkrupa2012.github.io/test/"
+  "homepage": "http://mkrupa2012.github.io/pa-app/"
 }
